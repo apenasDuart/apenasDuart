@@ -1,8 +1,8 @@
 ## Bem-vindo! Eu sou o Gabriel Matt
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apenasDuart&theme=synthwave&show_icons=true"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasDuart&layout=compact&theme=synthwave"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apenasDuart&theme=rose&show_icons=true"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasDuart&layout=compact&theme=rose"> 
 </div>
 
 <div>
